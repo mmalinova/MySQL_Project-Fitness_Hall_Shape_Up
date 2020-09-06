@@ -1,0 +1,11 @@
+INSERT INTO `fitness_hall_shape_up`.`price`
+(`ID`,
+`DAILY`,
+`MONTHLY`,
+`YEARLY`,
+`SUBSCRIPTION`)
+VALUES
+('1', '10', NULL, NULL, NULL),
+('2', NULL, '40', NULL, NULL),
+('3', NULL, NULL, '300', NULL),
+('4', NULL, NULL, NULL, '30');
