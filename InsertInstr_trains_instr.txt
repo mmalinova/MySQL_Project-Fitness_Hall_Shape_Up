@@ -1,0 +1,6 @@
+INSERT INTO `fitness_hall_shape_up`.`instructor_trains_instructor`
+(`SLAVE_INSTRUCTOR_EGN`,
+`MASTER_INSTRUCTOR_EGN1`)
+VALUES
+('9802125043', '9504255061'),
+('9805039661', '9504255061');
